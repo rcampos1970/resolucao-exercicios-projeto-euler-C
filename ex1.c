@@ -1,3 +1,4 @@
+//Escreva um algoritmo que armazene o valor 999 na variável a e o valor 555 na variável b.
 #include <stdio.h>
 
 int main()
